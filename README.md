@@ -9,9 +9,13 @@ This project includes 2 techniques:
 # Colaborative system
   - User-base
   - Item-base
+
+
 | Recomendation System | RMSE  | MAPE | MAE |
+| -------------------  | ----- | ---- | --- |
 | Baseline User-based CF  | 1.7188 | 40.5585 | 1.3484 |
 | Baseline Item-based CF  | 2.5511 | 64.0379 | 2.2585 |
+<hr><div>
 
 ##
   **Team member**
