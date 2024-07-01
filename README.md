@@ -16,6 +16,7 @@ This project includes 2 techniques:
 | -------------------  | ----- | ---- | --- |
 | Baseline User-based CF  | 1.7188 | 40.5585 | 1.3484 |
 | Baseline Item-based CF  | 2.5511 | 64.0379 | 2.2585 |
+| SVD++  | 0.8806 | 64.0379 | 20.3463 | 0.6770 |
 <hr><div>
 
 ##
