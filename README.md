@@ -3,3 +3,7 @@ The project is about using ML and DL models for recomending the movies for user 
 This project includes 2 techniques:
 - Content-based system
 - Colaborative system
+
+# The Content-based System
+
+# Colaborative system
