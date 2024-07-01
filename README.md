@@ -9,7 +9,8 @@ This project includes 2 techniques:
 # Colaborative system
   - User-base
   - Item-base
-
+  - KNN
+  - SVD++
 
 | Recomendation System | RMSE  | MAPE | MAE |
 | -------------------  | ----- | ---- | --- |
